@@ -8,3 +8,5 @@
 - 😄 Pronouns : Killian Good
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KillianGood&theme=<THEME_NAME>" />
+
