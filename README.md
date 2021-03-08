@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working in ETML school
-- <br>
+
 ### Language I am currently learning:
 <code><img height="40" src="https://fofsoft.com/images/illustration/html_css_js.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png"></code>
