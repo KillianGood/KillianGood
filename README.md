@@ -8,4 +8,4 @@
 - 😄 Pronouns : Killian Good
 
 
-![Killian's GitHub stats](https://github-readme-stats.vercel.app/api?username=KillianGood&show_icons=true&theme=black)
+![Killian's GitHub stats](https://github-readme-stats.vercel.app/api?username=KillianGood&show_icons=true&theme=dark)
