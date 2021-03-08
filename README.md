@@ -8,5 +8,5 @@
 - 😄 Pronouns : Killian Good
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KillianGood)](https://github.com/anuraghazra/github-readme-stats)
+[![Killian's GitHub stats](https://github-readme-stats.vercel.app/api?username=KillianGood)](https://github.com/anuraghazra/github-readme-stats)
 
