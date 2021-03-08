@@ -7,3 +7,5 @@
 - 📫 How to reach me : killian.good@eduvaud.ch
 - 😄 Pronouns : Killian Good
 
+- name: Profile Readme Stats
+  uses: teoxoy/profile-readme-stats@v1
