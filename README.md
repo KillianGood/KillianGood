@@ -9,5 +9,5 @@
 
 
 
-![Killian's GitHub stats](https://github-readme-stats.vercel.app/api?username=KillianGood&show_icons=true&theme=dark) &nbsp;
+![Killian's GitHub stats](https://github-readme-stats.vercel.app/api?username=KillianGood&show_icons=true&theme=dark) &nbsp; &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KillianGood&theme=tokyonight)
