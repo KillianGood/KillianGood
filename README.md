@@ -1,8 +1,7 @@
 ### Welcome to my github
 
-- - <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="alt text" width="20px" height="20px"> My name is Killian Good and im 17 years old.
+- <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="alt text" width="20px" height="20px"> My name is Killian Good and im 17 years old.
 - 🏫  I’m currently working in ETML school
-- <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="alt text" width="20px" height="20px">
 
 #### Language I am currently learning: <br>
 <code><img height="40" src="https://banner2.cleanpng.com/20180330/zle/kisspng-microsoft-azure-sql-database-microsoft-sql-server-database-5abeaece642720.1956423515224460304102.jpg"></code> &nbsp;
