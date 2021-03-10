@@ -1,7 +1,8 @@
 ### Welcome to my github
 
 
-- 🔭 I’m currently working in ETML school
+- 🏫  I’m currently working in ETML school
+- ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 #### Language I am currently learning: <br>
 <code><img height="40" src="https://banner2.cleanpng.com/20180330/zle/kisspng-microsoft-azure-sql-database-microsoft-sql-server-database-5abeaece642720.1956423515224460304102.jpg"></code> &nbsp;
