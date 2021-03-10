@@ -3,7 +3,7 @@
 - <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="alt text" width="20px" height="20px"> My name is Killian Good 
 - 🏫  I’m currently working in ETML school
 
-### Language that i know <br>
+#### Language that i know <br>
 <img src="https://i.pinimg.com/originals/d5/bc/80/d5bc803f0ab768736cb0df5c06109c9a.png" alt="alt text" width="200px" height="100px">
 
 #### Language I am currently learning: <br>
