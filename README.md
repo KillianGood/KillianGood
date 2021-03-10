@@ -4,7 +4,7 @@
 - 🏫  I’m currently working in ETML school
 
 ### Language that i know <br>
-<img src="https://i.pinimg.com/originals/d5/bc/80/d5bc803f0ab768736cb0df5c06109c9a.png" alt="alt text" width="150px" height="250px">
+<img src="https://i.pinimg.com/originals/d5/bc/80/d5bc803f0ab768736cb0df5c06109c9a.png" alt="alt text" width="250px" height="150px">
 
 #### Language I am currently learning: <br>
 <code><img height="40" src="https://banner2.cleanpng.com/20180330/zle/kisspng-microsoft-azure-sql-database-microsoft-sql-server-database-5abeaece642720.1956423515224460304102.jpg"></code> &nbsp;
