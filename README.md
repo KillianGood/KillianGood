@@ -4,7 +4,7 @@
 - 🔭 I’m currently working in ETML school
 
 #### Language I am currently learning: <br>
-<code><img height="40" src="https://fofsoft.com/images/illustration/html_css_js.png"></code>
+<code><img height="40" src="https://banner2.cleanpng.com/20180330/zle/kisspng-microsoft-azure-sql-database-microsoft-sql-server-database-5abeaece642720.1956423515224460304102.jpg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png"></code>
 
 
