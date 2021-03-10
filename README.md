@@ -3,6 +3,7 @@
 
 - 🏫  I’m currently working in ETML school
 - ![Alt Text](https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif =250x250)
+- <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="alt text" width="200px" height="200px">
 
 #### Language I am currently learning: <br>
 <code><img height="40" src="https://banner2.cleanpng.com/20180330/zle/kisspng-microsoft-azure-sql-database-microsoft-sql-server-database-5abeaece642720.1956423515224460304102.jpg"></code> &nbsp;
