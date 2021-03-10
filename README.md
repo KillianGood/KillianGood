@@ -1,6 +1,6 @@
 ### Welcome to my github
 
-- <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="alt text" width="20px" height="20px"> My name is Killian Good and im 17 years old.
+- <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="alt text" width="20px" height="20px"> My name is Killian Good 
 - 🏫  I’m currently working in ETML school
 
 #### Language I am currently learning: <br>
