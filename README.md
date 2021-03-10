@@ -10,4 +10,4 @@
 
 
 ![Killian's GitHub stats](https://github-readme-stats.vercel.app/api?username=KillianGood&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KillianGood&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?KillianGood" frameborder="0"></iframe>
