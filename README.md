@@ -4,7 +4,7 @@
 - 🏫  I’m currently working in ETML school
 
 ### Language that i know <br>
-<img src="https://i.pinimg.com/originals/d5/bc/80/d5bc803f0ab768736cb0df5c06109c9a.png" alt="alt text" >
+<img src="https://i.pinimg.com/originals/d5/bc/80/d5bc803f0ab768736cb0df5c06109c9a.png" alt="alt text" width"250px" height="250px">
 
 
 #### Language I am currently learning: <br>
