@@ -9,6 +9,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![C#](https://img.shields.io/badge/-c%20sharp-239120?style=for-the-badge&logo=c%20sharp&logoColor=white)
+ <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>&nbsp;
 
 
 
