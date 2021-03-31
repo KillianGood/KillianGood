@@ -1,29 +1,55 @@
-### Welcome to my github
+<div align="center">
+<img width="100%" height = "250px" src="" alt="cover" />
+</div>
 
-- <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="alt text" width="20px" height="20px"> My name is Killian Good 
-- 🏫  I’m currently working in ETML school
+<h1 align='center'> Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<p align='center'>
 
-#### 📚 Language that i know :
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![C#](https://img.shields.io/badge/-c%20sharp-239120?style=for-the-badge&logo=c%20sharp&logoColor=white)
- <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>&nbsp;
+![visitors](https://visitor-badge.glitch.me/badge?page_id=61836895.61836895)
+
+</p>
+<div size='20px'> Hi! My name is Killian. Thank You for taking the time to view my GitHub Profile :smile: 
+<h2 align='center'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<p align = 'center'>
+<a href = 'https://www.twitter.com/@ayynarra'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://www.github.com/61836895'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
+</p>
+</div>
+
+<h2 align='center'> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> </h2>
+<p align = 'center'>
+
+<br>
+</p>
+<div align='center'>
+<img width ='30%' height = '30%'  src='https://cdn.pixabay.com/photo/2018/09/24/08/31/pixel-cells-3699334_1280.png'/>
+</div>
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+
+- 🔭 I’m currently working on 042-GesProj2
+
+- 🌱 I’m currently learning PHP, SQL 
+
+- 👯 I’m looking to collaborate on  
+
+- 💬 Talk to me about My name is Killian Good 
+I’m currently working in ETML school 
 
 
 
-#### 📚 The Framework that I'm learning :
 
-<img src="https://camo.githubusercontent.com/7f83c20f4b247489a3a457e837855edf6c4f5a58ad12cc0877757096124665a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" alt="alt text"> 
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='75px'> </h2>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=61836895&count_private=true&show_icons=true&theme=default" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=61836895&theme=default" />
+</a>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
-#### 📚 Language I am currently learning : <br>
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
-
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=KillianGood&count_private=true&theme=tokyonight&showicons=true)]() &nbsp; &nbsp;
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KillianGood&langs_count=5&theme=tokyonight)]()
-
+<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
