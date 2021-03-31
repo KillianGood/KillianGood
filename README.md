@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Killian Good</h1>
 <h3 align="center">A student from the ETML school</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=killiangood&label=Profile%20views&color=0e75b6&style=flat" alt="killiangood" /> </p>
 
 - 🔭 I’m currently working on **042-GesProj2**
 
