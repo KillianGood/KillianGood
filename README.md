@@ -2,7 +2,7 @@
 <h3 align="center">A student from the ETML school</h3>
 
 
-- 🔭 I’m currently working on **042-GesProj2**
+- 🔭 I’m currently working on **042-GesProj2, P-040_Web**
 
 - 🌱 I’m currently learning **PHP,SQL,PowerShell**
 
