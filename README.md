@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Killian Good</h1>
-<h3 align="center">A student from the ETML school</h3>
+<h3 align="center">A student from the ETML school in Switzerland</h3>
 
 
 - 🔭 I’m currently working on **042-GesProj2, P-040_Web**
