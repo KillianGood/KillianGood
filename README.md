@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **042-GesProj2, P-040_Web**
 
-- 🌱 I’m currently learning **PHP,SQL,PowerShell**
+- 🌱 I’m currently learning **PHP, SQL, PowerShell**
 
 - 🤝 I’m looking for help with **PowerShell, PHP**
 
