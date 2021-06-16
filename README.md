@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **PHP, SQL, PowerShell**
 
-- 🤝 I’m looking for help with **PowerShell, PHP**
+- 🤝 I’m looking for help with **C#, PHP**
 
 - 📫 How to reach me **killian.good@eduvaud.ch**
 
