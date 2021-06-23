@@ -23,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=killiangood&show_icons=true&locale=en&layout=compact" alt="killiangood" /></p>&nbsp;
 
 <p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=killiangood&show_icons=true&locale=en" alt="killiangood" /></p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=killiangood07&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
