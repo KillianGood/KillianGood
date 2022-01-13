@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **killian.good@eduvaud.ch**
 
-- ⚡ Fun fact **I'm 17 years old**
+- ⚡ Fun fact **I'm 18 years old**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
