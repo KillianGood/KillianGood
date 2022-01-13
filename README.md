@@ -2,9 +2,9 @@
 <h3 align="center">A student from the ETML school in Switzerland</h3>
 
 
-- 🔭 I’m currently working on **042-GesProj2, P-040_Web**
+- 🔭 I’m currently working on **A three.js project**
 
-- 🌱 I’m currently learning **PHP, SQL, PowerShell and JavaScript**
+- 🌱 I’m currently learning **Three.js, JavaScript**
 
 - 🤝 I’m looking for help with **PHP and JavaScript**
 
