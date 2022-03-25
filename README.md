@@ -2,11 +2,11 @@
 <h3 align="center">A student from the ETML school in Switzerland</h3>
 
 
-- 🔭 I’m currently working on **A three.js project**
+- 🔭 I’m currently working on **A Laravel project**
 
-- 🌱 I’m currently learning **Three.js, JavaScript**
+- 🌱 I’m currently learning **Laravel**
 
-- 🤝 I’m looking for help with **PHP and JavaScript**
+- 🤝 I’m looking for help with **PHP and Laravel**
 
 - 📫 How to reach me **killian.good@eduvaud.ch**
 
